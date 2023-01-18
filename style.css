@@ -1,0 +1,48 @@
+#calc
+{
+    color: #33ccff;
+    margin: 10px 150px 10px;
+    
+}
+.outline
+{
+    background-color: aliceblue;
+    margin: auto;
+    border: solid;
+    height: 50vh;
+    width: 40vh;
+    padding: 2vh;
+}
+.display
+#inp
+{
+    width: 35vh;
+    height: 5vh;
+    margin: 5% 5% 5%;
+}
+.btncntnr
+{
+    margin-left: .9vh;
+    background-color: aliceblue;
+    height: 40vh;
+    width: 39vh;
+}
+.row
+{
+    width:39vh;
+    height:9.9vh;
+}
+.button
+{
+    margin:1px 1px 1px 0px ;
+    width: 9vh;
+    height: 10vh;
+    background-color: aqua;
+    
+}
+body
+{
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+    height: 97vh;
+    
+}
