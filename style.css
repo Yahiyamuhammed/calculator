@@ -1,7 +1,15 @@
 #calc
 {
-    color: #33ccff;
+    color: #f05454;
+    font-style:oblique;
+    text-decoration: dashed;
+    opacity: 100%;
+    text-shadow: hsl(0, 87%, 47%);
+    font-size: x-large;
+122
+    font-weight: bolder;
     margin: 10px 150px 10px;
+
     
 }
 .outline
@@ -45,4 +53,15 @@ body
     background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
     height: 97vh;
     
+}
+#md
+{
+    font-style:oblique;
+    color: rgb(84, 254, 58);
+    text-decoration: dashed;
+    opacity: 100%;
+    text-shadow: #df1010;
+    font-size: x-large;
+    margin: 10px 150px 10px;
+    font-weight: bolder;
 }
